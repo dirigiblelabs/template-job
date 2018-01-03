@@ -12,7 +12,7 @@ Simple scheduled Job with a handler writing in the console every 5 seconds.
 	"expression":"0/5 * * * * ?",
 	"group":"dirigible-defined",
 	"handler":"{{projectName}}/{{fileName}}-handler.js",
-	"description":"{{fileName}} Job"}
+	"description":"{{fileName}} Job"
 }
 ```
 
