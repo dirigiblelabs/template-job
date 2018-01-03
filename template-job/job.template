@@ -2,5 +2,5 @@
 	"expression":"0/5 * * * * ?",
 	"group":"dirigible-defined",
 	"handler":"{{projectName}}/{{fileName}}-handler.js",
-	"description":"{{fileName}} Job"}
+	"description":"{{fileName}} Job"
 }
